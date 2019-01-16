@@ -1,0 +1,171 @@
+/* 
+  OrderDetailLocalizations.strings
+  JY
+
+  Created by 王杰 on 2018/9/29.
+  Copyright © 2018年 飞鱼旅行. All rights reserved.
+*/
+"派单详情" =    "Dispatched Order Detail";
+
+"客人信息" =    "Guest Information";
+
+"地接编号"  = "Grounding number";
+
+"客人" =    "Guest Name";
+
+"联系人"  =    "Contacts";
+
+"手机号"   =   "Phone Number";
+
+"微信"    =    "WeChat Number";
+
+"预订信息" = "Contact";
+
+"订单名称"  =  "Order name";
+
+"订单编号"   =   "Order number";
+
+"下单时间:" = "Order time:";
+
+"下单时间" = "Order time";
+
+"服务时间" = "Service time";
+
+"服务开始时间" = "Service Start time";
+
+"服务结束时间" = "Service End time";
+/****************接机**********************/
+"接机服务" =   "Pick-up Service";
+"接机服务信息" =   "Pick-up Service";
+
+"使用车辆" =    "Used Car";
+
+"机场名称" =   "Airport Name";
+
+"航班号"  =    "Flight Number";
+
+"到达时间" =    "Arrival Time";
+
+"送达地点" =   "Destination";
+
+"出行人数" =   "No. of traveller";
+
+"成人"    =    "Adult";
+
+"儿童"    =    "Child";
+
+"行李数量" =   "No. of baggage";
+"行李数"   =   "No. of baggage";
+
+"儿童座椅" =   "No. of child seats";
+
+"备注"    =    "Note";
+"备注信息"    =    "Note";
+
+
+/****************送机**********************/
+
+
+"送机服务" =    "Drop-off Service";
+"送机服务信息" =    "Drop-off Service";
+
+"送机时间" =   "Drop Off Time";
+
+"出发地点" =   "Address of Departure";
+
+/*****************包车*******************/
+
+"包车服务" =   "Charter Service";
+"包车服务信息" =   "Charter Service";
+
+"包车时间" =   "Start Time";
+
+"包车天数" =   "Number of total days";
+"包车时间(天)" =   "Number of total days";
+
+"游玩行程" =   "Tour Schedule";
+
+/******************接送机******************/
+
+"单程接送服务" =  "One-way Pick-up Service";
+"单程接送服务信息" =  "One-way Pick-up Service";
+
+"用车时间"   =   "Time of the car for use";
+
+
+/****************民宿********************/
+
+"民宿服务"   =   "Guesthouse Service";
+"民宿服务信息"   =   "Guesthouse Service";
+
+"民宿名称"   =   "Guesthouse Name";
+
+"规格"     =   "Specification";
+
+"房屋单价"  =  "Price";
+
+"入住时间"  =   "Check-in date";
+
+"退房时间"  =   "Check-out date";
+
+
+"入住天数"  =   "No. of Day";
+
+"入住人数"  =   "No. of People";
+
+"公寓数量"  =    "No. of Apartment";
+
+
+/****************行程定制********************/
+
+"行程信息"  =  "Travel information";
+
+"特色玩法"  =  "Characteristic Play Service";
+"特色玩法行程信息"  =  "Characteristic Play Service";
+
+"使用日期"  =   "Date of use";
+
+
+/*****************结算*******************/
+"结算信息"  =   "Settlement";
+"结算费用"  =   "Settlement Fee";
+"结算价格"  =   "Settlement Fee";
+
+/*************订单***********************/
+
+"确认订单"  =   "Confirm  Order";
+
+"派发订单"  =   "Distribute Order";
+
+"完成订单"  =   "Complete Order";
+
+/*************备注***********************/
+
+"查看更多" = "Expand all";
+
+"收起" = "Put away";
+
+"预览" = "preview";
+
+"复制客人信息" = "copy info";
+
+"已复制到粘贴板"  =  "Has been copied to the paste board";
+
+//<!--订单已派发给-->
+"订单已派发给：" = "This order has been distributed to:";
+
+//<!--已过期，后台重新派单。-->
+"这个订单已过期,请重新派单!" = "The order has expired so that the platform needs to distribute the order again.";
+
+
+//<!--请在24小时确认该订单，有疑问可联系客服解决-->
+"请在24小时内确认该订单，有疑问可联系客服解决。"  = "Please confirm the order within 24 hours. If you have any questions, please contact customer service.";
+
+//<!--订单编号不能为空!-->
+"订单编号不能为空!" = "The order number cannot be empty!";
+
+//<!--已服务成功，请等待订单结算。-->
+"订单已提交,请等待审核!"  = "The order has been served successfully. please wait for the order settlement.";
+//<!-- 已确认订单。-->
+"已确认订单!"  = "You have confirmed the order successfully.";
+

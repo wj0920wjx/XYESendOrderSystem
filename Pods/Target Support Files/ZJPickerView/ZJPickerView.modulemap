@@ -1,0 +1,6 @@
+framework module ZJPickerView {
+  umbrella header "ZJPickerView-umbrella.h"
+
+  export *
+  module * { export * }
+}
